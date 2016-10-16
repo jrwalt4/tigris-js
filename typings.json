@@ -1,0 +1,7 @@
+{
+  "name": "tigris-js",
+  "dependencies": {},
+  "globalDependencies": {
+    "sprintf": "registry:dt/sprintf#0.0.0+20160316155526"
+  }
+}

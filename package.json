@@ -1,0 +1,26 @@
+{
+  "name": "tigris-js",
+  "version": "1.0.0",
+  "description": "Collection of javascript utilities",
+  "main": "build/tigris.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrwalt4/tigris-js.git"
+  },
+  "keywords": [
+    "utilities"
+  ],
+  "author": "jrwalt4",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jrwalt4/tigris-js/issues"
+  },
+  "homepage": "https://github.com/jrwalt4/tigris-js#readme",
+  "dependencies": {
+    "sprintf": "latest",
+    "@types/sprintf":"latest"
+  }
+}
